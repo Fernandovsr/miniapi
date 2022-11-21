@@ -3,9 +3,9 @@ const app = express();
 
 app.get("/aluno", (req, res )=> {
     let usuario = [{
-                    nome: "Claudio Nunes",
+                    nome: "Fernando Vinicius de Souza Rodrigues",
                     disciplina : "Topicos Especiais",
-                    curso : "ADS"
+                    curso : "ADS Noite"
     },
         {
                     nome: "Fernando Rodrigues",
